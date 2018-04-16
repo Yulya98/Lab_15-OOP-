@@ -1,0 +1,6 @@
+C:\Users\Yulya\source\repos\Lab_15_OOP\Lab_15_OOP\bin\Debug\Lab_15_OOP.exe.config
+C:\Users\Yulya\source\repos\Lab_15_OOP\Lab_15_OOP\bin\Debug\Lab_15_OOP.exe
+C:\Users\Yulya\source\repos\Lab_15_OOP\Lab_15_OOP\bin\Debug\Lab_15_OOP.pdb
+C:\Users\Yulya\source\repos\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.exe
+C:\Users\Yulya\source\repos\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.pdb
+C:\Users\Yulya\source\repos\Lab_15_OOP\Lab_15_OOP\obj\Debug\Lab_15_OOP.csprojResolveAssemblyReference.cache
